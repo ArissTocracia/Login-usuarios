@@ -1,0 +1,10 @@
+dist/
+
+node_modules/
+
+server.log
+
+claves.md 
+
+main.html
+
